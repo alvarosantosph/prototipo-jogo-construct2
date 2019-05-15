@@ -2,6 +2,7 @@
 
 ```sh
 Jogo: Samurai X - v1.0
+
 @Author: Alvaro Santos
 
 Plataforma: Construct2
