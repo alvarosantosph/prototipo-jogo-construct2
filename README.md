@@ -3,9 +3,9 @@
 ```sh
 Jogo: Samurai X - v1.0
 
-@Author: Alvaro Santos
-
 Plataforma: Construct2
+
+@Author: Alvaro Santos
 ```
 Controles (Teclas Direcionais): 
 
