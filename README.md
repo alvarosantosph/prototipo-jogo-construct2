@@ -5,7 +5,7 @@ Jogo: Samurai X - v1.0
 
 Plataforma: Construct2
 
-@Author: Alvaro Santos
+Desenvolvedor: Alvaro Santos
 ```
 Controles (Teclas Direcionais): 
 
