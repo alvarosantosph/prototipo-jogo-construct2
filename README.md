@@ -17,6 +17,10 @@ Controles (Teclas Direcionais):
 * Cima(Pula) 
 * x (Ataque)
 
+### Desenvolvedor:
+
+* Alvaro Santos
+
 ## Contato
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
