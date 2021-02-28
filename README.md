@@ -1,12 +1,15 @@
-# Prototipo - Jogo - HTML5
+# Prototipo - Jogo - HTML5 - Construct2
 
 ```sh
 Jogo: Samurai X - v1.0
-
-Plataforma: Construct2
-
-Desenvolvedor: Alvaro Santos
 ```
+
+<div align="left">
+   <img src="https://img.shields.io/badge/-Construct%202-darkgray?style=for-the-badge" alt="Construct 2">
+</div>
+
+<br />
+
 Controles (Teclas Direcionais): 
 
 * -> Direita 
